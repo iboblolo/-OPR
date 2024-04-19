@@ -1,0 +1,16 @@
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\bin\Debug\net8.0-windows\OPR3.1.exe
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\bin\Debug\net8.0-windows\OPR3.1.deps.json
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\bin\Debug\net8.0-windows\OPR3.1.runtimeconfig.json
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\bin\Debug\net8.0-windows\OPR3.1.dll
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\bin\Debug\net8.0-windows\OPR3.1.pdb
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3._1.Form1.resources
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.csproj.GenerateResource.cache
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.AssemblyInfoInputs.cache
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.AssemblyInfo.cs
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.csproj.CoreCompileInputs.cache
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.dll
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\refint\OPR3.1.dll
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.pdb
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\OPR3.1.genruntimeconfig.cache
+C:\Users\belok\source\repos\OPR3.1\OPR3.1\obj\Debug\net8.0-windows\ref\OPR3.1.dll
