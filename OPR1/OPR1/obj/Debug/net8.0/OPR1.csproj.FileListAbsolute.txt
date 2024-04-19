@@ -1,0 +1,14 @@
+C:\Users\belok\source\repos\OPR1\OPR1\bin\Debug\net8.0\OPR1.exe
+C:\Users\belok\source\repos\OPR1\OPR1\bin\Debug\net8.0\OPR1.deps.json
+C:\Users\belok\source\repos\OPR1\OPR1\bin\Debug\net8.0\OPR1.runtimeconfig.json
+C:\Users\belok\source\repos\OPR1\OPR1\bin\Debug\net8.0\OPR1.dll
+C:\Users\belok\source\repos\OPR1\OPR1\bin\Debug\net8.0\OPR1.pdb
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.AssemblyInfoInputs.cache
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.AssemblyInfo.cs
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.csproj.CoreCompileInputs.cache
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.dll
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\refint\OPR1.dll
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.pdb
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\OPR1.genruntimeconfig.cache
+C:\Users\belok\source\repos\OPR1\OPR1\obj\Debug\net8.0\ref\OPR1.dll

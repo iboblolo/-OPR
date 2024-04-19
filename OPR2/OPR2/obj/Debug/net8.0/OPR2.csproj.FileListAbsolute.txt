@@ -1,0 +1,14 @@
+C:\Users\belok\source\repos\OPR2\OPR2\bin\Debug\net8.0\OPR2.exe
+C:\Users\belok\source\repos\OPR2\OPR2\bin\Debug\net8.0\OPR2.deps.json
+C:\Users\belok\source\repos\OPR2\OPR2\bin\Debug\net8.0\OPR2.runtimeconfig.json
+C:\Users\belok\source\repos\OPR2\OPR2\bin\Debug\net8.0\OPR2.dll
+C:\Users\belok\source\repos\OPR2\OPR2\bin\Debug\net8.0\OPR2.pdb
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.AssemblyInfoInputs.cache
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.AssemblyInfo.cs
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.csproj.CoreCompileInputs.cache
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.dll
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\refint\OPR2.dll
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.pdb
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\OPR2.genruntimeconfig.cache
+C:\Users\belok\source\repos\OPR2\OPR2\obj\Debug\net8.0\ref\OPR2.dll
